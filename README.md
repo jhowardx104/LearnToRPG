@@ -1,6 +1,7 @@
 # LearnToRPG
 A basic application in .NET using "RPG" elements to demonstrate C# concepts
 
+This repository is being created as a coding class being performed in the [Master Quest](https://discord.gg/hRPgWpyfsc) discord channel. Our community goal is to work together to help build each other up, in this instance by learning new skills together. We plan on using the skills we learn here to build out a game together.
 
 ## Resources
 
